@@ -1,1 +1,1 @@
-touch /tmp/hello
+yum install -y httpd
